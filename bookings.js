@@ -242,17 +242,20 @@ const bookingsContent = `
 
 <h2>💳 Railcard & Booking Apps</h2>
 <div class="card">
-    <h3>26-30 Railcard — Saves 1/3 on ALL trains</h3>
+    <h3>✅ Get the 16-25 Railcard — Saves 1/3 on ALL trains</h3>
     <table>
         <tr><th>Detail</th><th>Info</th></tr>
-        <tr><td>Cost</td><td>£35/year (or £80 for 3 years)</td></tr>
+        <tr><td>Which one</td><td><strong>16-25 Railcard</strong> (she's born 2001 — eligible!)</td></tr>
+        <tr><td>Cost</td><td>£35/year (or cheaper via TrainPal)</td></tr>
         <tr><td>Saves</td><td>1/3 off almost all rail fares</td></tr>
         <tr><td>Pays for itself</td><td>After just 2 London return trips!</td></tr>
         <tr><td>Digital</td><td>Stored on phone — no physical card needed</td></tr>
+        <tr><td>Validity</td><td>1 year from purchase — covers entire trip!</td></tr>
     </table>
-    <a class="link-btn" href="https://www.26-30railcard.co.uk/" target="_blank">Official site (£35)</a>
+    <div class="warning">Buy it BEFORE booking any train tickets — then apply it to get 1/3 off every booking. If she's already turned 25, buy NOW before turning 26.</div>
+    <a class="link-btn" href="https://www.16-25railcard.co.uk/" target="_blank">Official 16-25 Railcard (£35)</a>
     <a class="link-btn" href="https://www.mytrainpal.com/" target="_blank">TrainPal (code MSE23 = 23% off → £26.95!)</a>
-    <a class="link-btn" href="https://www.thetrainline.com/trains/great-britain/railcards" target="_blank">Buy on Trainline</a>
+    <a class="link-btn" href="https://www.thetrainline.com/trains/great-britain/railcards/16-25-railcard" target="_blank">Buy on Trainline app</a>
     <div class="tip">Buy the Railcard BEFORE booking any trains — then apply it to get 1/3 off every ticket.</div>
 </div>
 
